@@ -11,11 +11,11 @@
 
 ### Photos
 
-<img src="https://i.imgur.com/WMAsuj9.jpg" width="160" height="90">
+<img src="https://i.imgur.com/mF5I7RI.jpg" width="271" height="361">
 
 ### Statistics
 
-Averages Graph
+![Image](https://i.imgur.com/lic5uKb.jpg)
 
 ### Records
 
@@ -27,7 +27,3 @@ Best Series | 605 | 573 | 533 | - | - | - | - |
 ### For me
 <br/>Documentation: [documentation](https://docs.github.com/categories/github-pages-basics/)
 <br/>Github Markdown: [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-<br/>Jekyll: [jekyll](http://jekyllthemes.org/)
-```
-[Link](url) and ![Image](src)
-```
