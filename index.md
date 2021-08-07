@@ -1,6 +1,6 @@
 ## Bozo Bowling
 
-### Videos
+### [Videos](https://youtube.com/playlist?list=PLTCqfAUDIQXs5qWd2Ikqg7-182fygLEuu)
 
 [![Image](https://i.imgur.com/WMAsuj9.jpg)](https://youtu.be/g8cQKjCX1bs)
 [![Image](https://i.imgur.com/g3HK0el.jpg)](https://youtu.be/o7q24rj1a84)
