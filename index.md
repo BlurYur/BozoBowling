@@ -11,13 +11,17 @@
 
 ### Photos
 
+<img src="https://i.imgur.com/WMAsuj9.jpg" width="160" height="90">
+
 ### Statistics
+
+Averages Graph
 
 ### Records
 
 ‎ | Matthew | Derek | Isaac | Celo | AJ | Jake | Nick |
 :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-PB's | 246 | 241 | 233 | 229 | 200 | 175 | 149 |
+PB's | 246 | 241 | 234 | 229 | 200 | 175 | 149 |
 Best Series | 605 | 573 | 533 | - | - | - | - |
 
 ### For me
