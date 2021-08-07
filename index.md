@@ -15,7 +15,7 @@
 
 ### Statistics
 
-![Image](https://i.imgur.com/lic5uKb.jpg)
+[![Image](https://i.imgur.com/lic5uKb.jpg)](https://drive.google.com/file/d/1vhg8rbtPif5YBARjKcBBYW6hZMpWlBiJ/view)
 
 ### Records
 
