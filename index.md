@@ -23,7 +23,3 @@
 :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 PB's | 246 | 241 | 235 | 234 | 200 | 175 | 149 |
 Best Series | 605 | 573 | 533 | - | - | - | - |
-
-### For me
-<br/>Documentation: [documentation](https://docs.github.com/categories/github-pages-basics/)
-<br/>Github Markdown: [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
