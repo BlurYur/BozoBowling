@@ -15,7 +15,7 @@
 
 ### Statistics
 
-[![Image](https://i.imgur.com/lic5uKb.jpg)](https://drive.google.com/file/d/1vhg8rbtPif5YBARjKcBBYW6hZMpWlBiJ/view)
+[![Image](https://i.imgur.com/dvyMZD5.png)](http://www.plotvar.com/line.php?title=Bowling+Averages&yaxis=Score&xvalues=4%2F12%2C+4%2F26%2C+5%2F3%2C+5%2F11%2C+5%2F17%2C+5%2F24%2C+8%2F9&serie1=Isaac&values_serie1=117%2C+119%2C+119%2C+114%2C+118%2C+121%2C+175&serie3=Derek&values_serie3=132%2C+133%2C+122%2C+137%2C+134%2C+131%2C+175+&serie4=AJ&values_serie4=143%2C+150%2C+135%2C+138%2C+138%2C+120%2C+174&serie5=Matt&values_serie5=131%2C+131%2C+117%2C+110%2C+122%2C+122%2C+145&serie6=Celo&values_serie6=135%2C+125%2C+132%2C+156%2C+141%2C+123%2C+155&serie7=Jake&values_serie7=91%2C+107%2C+87%2C+114%2C+93%2C+98%2C+120&serie8=Nick&values_serie8=92%2C+97%2C+110%2C+93%2C+93%2C+121%2C+110)
 
 ### Records
 
